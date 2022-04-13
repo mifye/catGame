@@ -1,2 +1,36 @@
-story main concepts:
-fuck this lol ill do it later
+story main concepts: 
+- fire introduced to show vulnerability
+- give fire to friend, rekindle friendship
+- journey to friend involves fighting mental struggles in the form of bosses
+- also convo with characters along the way is important for healing
+- if speedrun and reach friend with hella debuffs, friend rejects flame
+    - friend says they should go reflect on the dmg they caused to get there too
+- if player properly heals, they realize problems that made friendship break
+
+random ideas:
+- find coins that can be redeemed for cosmetics (change fire color)
+- make own SFX
+- idle animation ?? (umbrella to protect flame, moving animation or sum idk)
+- game is continuous on client side, but will have stages for dev convenience
+    - "checkpoint saved" displayed in bottom left after each stage
+    - fades to loading screen once player finished stage and walks to right
+    - little nightmares type beat
+
+player traits:
+- health
+    - 3 hearts
+- energy bar
+    - jump and roll uses energy
+    - slowly replenishes constantly, if idle for x seconds, replenish speed mult by 10
+- 
+
+debuff ideas:
+- depression
+    - BOSS: boss in background, have to climb level and avoid drowning. If touch water and escape, water rises faster.
+    - energy bar gets smaller
+    - movement speed lower (?)
+- anxiety
+    - BOSS: many small attack; hits add up and freeze you at x amount; can get hit while frozen & amount doesn't change
+    - have to complete tasks in certain order/with more detail
+- critical point (near death)
+    - screen goes darker (?)
